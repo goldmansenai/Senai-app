@@ -12,7 +12,13 @@ Projeto desenvolvido com o propósito de fixação do conteúdo passado na aula 
 ### Pré-requisitos
 
 Para criar um projeto com o ReactJS você irá precisar:
-[NodeJs](https://nodejs.org/en/) , [npm](https://pt-br.reactjs.org/docs/create-a-new-react-app.html) e um editor de código fonte [VSCode](https://code.visualstudio.com/Download)!
+<nav>
+  <ul>
+    <li>[NodeJs](https://nodejs.org/en/)</li>
+    <li>[npm](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)</li>
+    <li>[VSCode](https://code.visualstudio.com/Download)!</li>
+  </ul>
+</nav>
 
 #### Rodando o projeto
 
