@@ -20,6 +20,7 @@ Para criar um projeto com o ReactJS você irá precisar:
     <li><a href="https://code.visualstudio.com/Download">VScode</a></li>
   </ul>
 </nav>
+
 ---
 
 #### Primeiros passos
