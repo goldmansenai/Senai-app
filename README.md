@@ -1,70 +1,100 @@
-# Getting Started with Create React App
+<center>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![banner](./wwwroot/assets/images/banner.png)
 
-## Available Scripts
+# ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) | ASP NET Core MVC | ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-In the project directory, you can run:
+## &#128679; Em desenvolvimento... &#128421;
 
-### `yarn start`
+</center>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Sobre
 
-### `yarn test`
+Projeto desenvolvido com intuito de completar o _'Get it Started'_ com _ASP NET Core MVC_ disponibilizado na documentação oficial da Microsoft.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Languages](https://img.shields.io/github/languages/count/Gustavo-Apolonio/mvc-movie-microsoft?color=%2304D361) ![Repo_Size](https://img.shields.io/github/repo-size/Gustavo-Apolonio/mvc-movie-microsoft) ![Last_Commit](https://img.shields.io/github/last-commit/Gustavo-Apolonio/mvc-movie-microsoft)
 
-### `yarn build`
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![Maintainer](https://img.shields.io/badge/maintainer-GustavoApolonio-purple)](https://github.com/Gustavo-Apolonio) [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg) & [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [x] Bem Vindo!
+- [x] Política de Privacidade.
+- [x] Erro! (Tela de Demonstração)
+- [x] Olá Mundo!
+- [x] 'Olá Você!'
+- [x] Listagem de Filmes.
+- [x] Adicionar filme.
+- [x] Editar filme.
+- [x] Visualizar detalhes do filme.
+- [x] Deletar filme.
+- [x] Deletar todos os filmes.
+- [x] Filtrar listagem de filmes.
 
-### `yarn eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### Pré-requisitos
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com/downloads) e [.NET 5.0 SDK](https://docs.microsoft.com/pt-br/dotnet/core/install/). É recomendado que se tenha um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/Download)!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Rodando o projeto
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```bash
+# Clone este repositório
+$ git clone https://github.com/Gustavo-Apolonio/mvc-movie-microsoft.git
 
-## Learn More
+# Acesse a pasta do projeto no terminal/cmd
+$ cd mvc-movie-microsoft
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Caso queira editar algum código, abra o VsCode com
+$ code .
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# 'Builde' o projeto, para puxar os pacotes necessário novamente
+$ donet build
 
-### Code Splitting
+# E então, no terminal ainda, inicie o server
+$ dotnet run
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+# O servidor inciará na porta:5001 - acesse <http://localhost:5001>
+```
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Recursos
 
-### Making a Progressive Web App
+| Tecnologia       | [![Generic badge](https://img.shields.io/badge/Badges--lime.svg)](####recursos)                                                                                                         |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| C#               | [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/csharp/)                              |
+| ASP NET Core MVC | [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)                                                        |
+| SQLite           | [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)                                       |
+| HTML5 (cshtml)   | [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)                          |
+| CSS3             | [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)                              |
+| JavaScript       | [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) |
+| Boostrap         | [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)                                      |
+| NuGet Package    | [![NuGet](https://img.shields.io/static/v1?label=&message=NuGet&color=00467C&style=for-the-badge&logo=nuget)](https://www.nuget.org/)                                                   |
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+### Autor
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<a href="https://github.com/Gustavo-Apolonio">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/61479398?v=4" width="100px;" alt=""/>
+ <br />
+ <sub>
+  <b>Gustavo Apolonio</b>
+ </sub>
+</a>
 
-### Deployment
+&#128075; Entre em contato!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+[![GitHub Badge](https://img.shields.io/badge/-GustavoApolonio-gray?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gustavo-Apolonio)](https://github.com/Gustavo-Apolonio)
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-apolonio-4206451b7/)](https://www.linkedin.com/in/gustavo-apolonio-4206451b7/)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511951488854&text=Ol%C3%A1%20Gustavo.%20Te%20encontrei%20pelo%20GitHub!)](https://api.whatsapp.com/send?phone=5511951488854&text=Ol%C3%A1%20Gustavo.%20Te%20encontrei%20pelo%20GitHub!)
+[![Gmail Badge](https://img.shields.io/badge/-gustavo.apolonio.nascimento@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavo.apolonio.nascimento@gmail.com)](mailto:gustavo.apolonio.nascimento@gmail.com)
 
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## [README in English 🇺🇸](./README-english.md)
