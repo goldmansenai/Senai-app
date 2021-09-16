@@ -14,9 +14,9 @@ Projeto desenvolvido com o propósito de fixação do conteúdo passado na aula 
 Para criar um projeto com o ReactJS você irá precisar:
 <nav>
   <ul>
-    <li>[NodeJs](https://nodejs.org/en/)</li>
-    <li>[npm](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)</li>
-    <li>[VSCode](https://code.visualstudio.com/Download)!</li>
+    <li><a href="https://nodejs.org/en/">NodeJs </a></li>
+    <li><a href="https://pt-br.reactjs.org/docs/create-a-new-react-app.html">Npm</a></li>
+    <li><a href="https://code.visualstudio.com/Download">VScode</a></li>
   </ul>
 </nav>
 
