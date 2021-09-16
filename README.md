@@ -24,7 +24,8 @@ Para criar um projeto com o ReactJS você irá precisar:
 
 ---
 
-#### Primeiros passos
+---
+### Primeiros passos
 
 ```bash
 # Veja se você possui o nodeJS (Caso não tenha, instale no link acima)
@@ -45,6 +46,7 @@ $ cd nome_do_projeto
 # E então compile o programa com:
 $ yarn start
 ```
+---
 
 ---
 ### Autores
