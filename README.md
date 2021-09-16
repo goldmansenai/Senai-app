@@ -51,4 +51,13 @@ $ yarn start
 ---
 ### Autores
 
+<nav>
+  <ul>
+    <li><a href="https://github.com/PatriciaRainha">Patricia Rainha </a></li>
+    <li><a href="https://github.com/thiagoamorim11">Thiago Amorim</a></li>
+    <li><a href="#">Victor Gomes</a></li>
+    <li><a href="https://github.com/viniciusSg22">Vinícius Sanches</a></li>
+  </ul>
+</nav>
+  
 ---
