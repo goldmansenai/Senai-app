@@ -1,6 +1,6 @@
 ---
 # Status do projeto: 
-## &#128679; Em desenvolvimento... &#128421;
+## :white_check_mark: Concluído :white_check_mark:
 ---
 
 ---
@@ -25,6 +25,7 @@ Para criar um projeto com o ReactJS você irá precisar:
 ---
 
 #### Primeiros passos
+
 ```bash
 # Veja se você possui o nodeJS (Caso não tenha, instale no link acima)
 $ node -v
