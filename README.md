@@ -8,6 +8,7 @@
 
 Projeto desenvolvido com o propósito de fixação do conteúdo passado na aula de ReactJS, tais como componentização, bootstrap e reactstrap
 ---
+
 ---
 ### Pré-requisitos
 
@@ -20,6 +21,7 @@ Para criar um projeto com o ReactJS você irá precisar:
   </ul>
 </nav>
 ---
+
 #### Primeiros passos
 ```bash
 # Clone este repositório
@@ -39,6 +41,7 @@ $ dotnet run
 
 # O servidor inciará na porta:5001 - acesse <http://localhost:5001>
 ```
+
 ---
 ### Autores
 
