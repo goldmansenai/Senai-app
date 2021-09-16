@@ -25,22 +25,23 @@ Para criar um projeto com o ReactJS você irá precisar:
 
 #### Primeiros passos
 ```bash
-# Clone este repositório
-$ git clone https://github.com/Gustavo-Apolonio/mvc-movie-microsoft.git
+# Veja se você possui o nodeJS (Caso não tenha, instale no link acima)
+$ node -v
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd mvc-movie-microsoft
+# Instale o yarn (Não se preocupe, com a instalação do nodeJS, o npm já vem instalado)
+$ npm install -g yarn
 
-# Caso queira editar algum código, abra o VsCode com
-$ code .
+# Instale a ferramenta React
+$ npm install -g creat-react-app
 
-# 'Builde' o projeto, para puxar os pacotes necessário novamente
-$ donet build
+# Crie um projeto React
+$ create-react-app <nome do projeto>
 
-# E então, no terminal ainda, inicie o server
-$ dotnet run
+# Entre no diretório criado
+$ cd <nome do projeto>
 
-# O servidor inciará na porta:5001 - acesse <http://localhost:5001>
+# E então compile o programa com:
+$ yarn start
 ```
 
 ---
