@@ -5,7 +5,6 @@
 
 ---
 ## Sobre
-
 Projeto desenvolvido com o propósito de fixação do conteúdo passado na aula de ReactJS, tais como componentização, bootstrap e reactstrap
 ---
 
@@ -35,10 +34,10 @@ $ npm install -g yarn
 $ npm install -g creat-react-app
 
 # Crie um projeto React
-$ create-react-app <nome do projeto>
+$ create-react-app nome_do_projeto
 
 # Entre no diretório criado
-$ cd <nome do projeto>
+$ cd nome_do_projeto
 
 # E então compile o programa com:
 $ yarn start
