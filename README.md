@@ -5,7 +5,9 @@
 
 ---
 ## Sobre
+
 Projeto desenvolvido com o propósito de fixação do conteúdo passado na aula de ReactJS, tais como componentização, bootstrap e reactstrap
+
 ---
 
 ---
